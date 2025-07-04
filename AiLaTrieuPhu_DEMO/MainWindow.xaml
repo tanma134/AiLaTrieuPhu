@@ -1,0 +1,408 @@
+﻿ <Window x:Class="AiLaTrieuPhu_DEMO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AiLaTrieuPhu_DEMO"
+        mc:Ignorable="d"
+        Title="🏆 Ai Là Triệu Phú 🏆" Height="800" Width="1200"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize"
+        Background="#FF1E3A8A">
+
+    <Window.Resources>
+        <!-- Gradient Brushes -->
+        <LinearGradientBrush x:Key="PrimaryGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FF6366F1" Offset="0"/>
+            <GradientStop Color="#FF3B82F6" Offset="1"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="QuestionGradient" StartPoint="0,0" EndPoint="1,0">
+            <GradientStop Color="#FF4C1D95" Offset="0"/>
+            <GradientStop Color="#FF7C3AED" Offset="1"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="BlueButtonGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FF3B82F6" Offset="0"/>
+            <GradientStop Color="#FF1E40AF" Offset="1"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="CorrectGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FF10B981" Offset="0"/>
+            <GradientStop Color="#FF059669" Offset="1"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="WrongGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FFEF4444" Offset="0"/>
+            <GradientStop Color="#FFDC2626" Offset="1"/>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="OrangeGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FFFF8A00" Offset="0"/>
+            <GradientStop Color="#FFFF6B00" Offset="1"/>
+        </LinearGradientBrush>
+
+        <!-- Button Style cho đáp án -->
+        <Style x:Key="AnswerButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource BlueButtonGradient}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="15,12"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="8"
+                                BorderThickness="1"
+                                BorderBrush="#FF2563EB">
+<Border.Effect>
+                                <DropShadowEffect Color="Black" Direction="315" ShadowDepth="3" BlurRadius="8" Opacity="0.4"/>
+                            </Border.Effect>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                            <GradientStop Color="#FF60A5FA" Offset="0"/>
+                                            <GradientStop Color="#FF3B82F6" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Button Style cho nút hỗ trợ -->
+        <Style x:Key="HelpButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource OrangeGradient}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Margin" Value="2"/>
+            <Setter Property="Padding" Value="12,8"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="15"
+                                BorderThickness="0">
+                            <Border.Effect>
+                                <DropShadowEffect Color="Black" Direction="315" ShadowDepth="2" BlurRadius="6" Opacity="0.3"/>
+                            </Border.Effect>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                            <GradientStop Color="#FFFFA500" Offset="0"/>
+                                            <GradientStop Color="#FFFF8A00" Offset="1"/>
+</LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" Value="#FF9CA3AF"/>
+                                <Setter Property="Foreground" Value="#FF6B7280"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <!-- Background Pattern -->
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#FF0A0A23" Offset="0"/>
+                <GradientStop Color="#FF1E1B4B" Offset="0.5"/>
+                <GradientStop Color="#FF4C1D95" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="280"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Main Game Area -->
+        <Grid Grid.Column="0" Margin="20,20,10,20">
+            
+            <!-- Host Background Image -->
+            <Border CornerRadius="15" Margin="20,-18,40,310">
+                <!-- Dùng ảnh làm nền qua Background -->
+                <Border.Background>
+                    <ImageBrush ImageSource="Image/laivansam.png" Stretch="UniformToFill"/>
+                </Border.Background>
+
+                <Border.Effect>
+                    <DropShadowEffect Color="Black" Direction="315" ShadowDepth="5" BlurRadius="15" Opacity="0.5"/>
+                </Border.Effect>
+
+                <!-- Nếu bạn muốn phủ 1 lớp tối lên ảnh -->
+            </Border>
+
+
+            <!-- Question Info Bar -->
+            <Border Background="{StaticResource QuestionGradient}" 
+                    CornerRadius="12"
+                    Margin="20,267,40,0"
+                    Height="50"
+                    VerticalAlignment="Top"
+                    Padding="20,10">
+                <Border.Effect>
+                    <DropShadowEffect Color="Black" Direction="315" ShadowDepth="4" BlurRadius="10" Opacity="0.4"/>
+                </Border.Effect>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Question Number -->
+                    <TextBlock Grid.Column="0" x:Name="txtQuestionNumber"
+                               Text="Câu hỏi: 1/15"
+                               FontSize="16"
+                               FontWeight="Bold"
+                               Foreground="White"
+                               VerticalAlignment="Top" Margin="0,3,0,0"/>
+
+                    <!-- Current Prize -->
+                    <TextBlock Grid.Column="1" x:Name="txtCurrentPrize"
+                               Text="100.000 VNĐ"
+FontSize="18"
+                               FontWeight="Bold"
+                               Foreground="#FFFBBF24"
+                               VerticalAlignment="Center"
+                               Margin="20,0">
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="Black" Direction="315" ShadowDepth="1" BlurRadius="2" Opacity="0.8"/>
+                        </TextBlock.Effect>
+                    </TextBlock>
+
+                    <!-- Timer -->
+                    <Border Grid.Column="2" Background="White" CornerRadius="20" Padding="12,6">
+                        <TextBlock x:Name="txtTimer"
+                                   Text="30"
+                                   FontSize="16"
+                                   FontWeight="Bold"
+                                   Foreground="#FFDC2626"
+                                   HorizontalAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </Border>
+
+            <!-- Question Area -->
+            <Border Background="White" 
+                    CornerRadius="12" 
+                    Margin="20,322,40,258" 
+                    Padding="20">
+                <Border.Effect>
+                    <DropShadowEffect Color="Black" Direction="315" ShadowDepth="5" BlurRadius="12" Opacity="0.3"/>
+                </Border.Effect>
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <TextBlock x:Name="txtQuestion"
+                               Text="Chào mừng bạn đến với chương trình 'Ai là triệu phú'! Hãy sẵn sàng để thử thách kiến thức của mình."
+                               FontSize="16"
+                               FontWeight="SemiBold"
+                               Foreground="#FF1F2937"
+                               TextWrapping="Wrap"
+                               LineHeight="28"
+                               TextAlignment="Center"
+                               VerticalAlignment="Center"/>
+                </ScrollViewer>
+            </Border>
+
+            <!-- Answers Grid -->
+            <Grid Margin="20,520,20,20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="btnA" Grid.Row="0" Grid.Column="0" 
+                        Style="{StaticResource AnswerButtonStyle}" 
+                        Click="btnA_Click" 
+                        Margin="5,5,5,5">
+                    <TextBlock Text="A. Đáp án A" TextWrapping="Wrap" TextAlignment="Center"/>
+                </Button>
+                
+                <Button x:Name="btnB" Grid.Row="0" Grid.Column="1" 
+                        Style="{StaticResource AnswerButtonStyle}"
+Click="btnB_Click" 
+                        Margin="5">
+                    <TextBlock Text="B. Đáp án B" TextWrapping="Wrap" TextAlignment="Center"/>
+                </Button>
+                
+                <Button x:Name="btnC" Grid.Row="1" Grid.Column="0" 
+                        Style="{StaticResource AnswerButtonStyle}" 
+                        Click="btnC_Click" 
+                        Margin="5">
+                    <TextBlock Text="C. Đáp án C" TextWrapping="Wrap" TextAlignment="Center"/>
+                </Button>
+                
+                <Button x:Name="btnD" Grid.Row="1" Grid.Column="1" 
+                        Style="{StaticResource AnswerButtonStyle}" 
+                        Click="btnD_Click" 
+                        Margin="5">
+                    <TextBlock Text="D. Đáp án D" TextWrapping="Wrap" TextAlignment="Center"/>
+                </Button>
+            </Grid>
+
+            <!-- Status Panel -->
+            <StackPanel x:Name="panelExperts" Grid.Row="3"
+            Orientation="Horizontal"
+            Visibility="Collapsed"
+            Background="#AA000000"
+             Margin="20"
+            Width="1800" Height="37"
+           >
+                <TextBlock x:Name="expert1" FontSize="14" FontWeight="SemiBold" Foreground="White" Margin="0,0,20,0"/>
+                <TextBlock x:Name="expert2" FontSize="14" FontWeight="SemiBold" Foreground="White" Margin="0,0,20,0"/>
+                <TextBlock x:Name="expert3" FontSize="14" FontWeight="SemiBold" Foreground="White" Margin="0,0,20,0"/>
+                <TextBlock x:Name="expert4" FontSize="14" FontWeight="SemiBold" Foreground="White" Margin="0,0,20,0"/>
+                </StackPanel>
+
+
+
+
+                <Border x:Name="borderStatus" Background="#FF059669" 
+                    CornerRadius="10" Padding="15" Visibility="Collapsed"
+                    VerticalAlignment="Bottom" Margin="20,0,20,20">
+                <Border.Effect>
+                    <DropShadowEffect Color="Black" Direction="315" ShadowDepth="5" BlurRadius="10" Opacity="0.3"/>
+                </Border.Effect>
+                <TextBlock x:Name="txtStatus"
+                           Text="Chúc mừng! Bạn đã trả lời đúng!"
+                           FontSize="14"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           TextAlignment="Center"/>
+            </Border>
+        </Grid>
+
+        <!-- Prize Ladder Panel -->
+        <Border Grid.Column="1" Background="White" CornerRadius="15,0,0,15" 
+                Margin="0,20,20,20" Padding="15">
+            <Border.Effect>
+                <DropShadowEffect Color="Black" Direction="225" ShadowDepth="8" BlurRadius="20" Opacity="0.3"/>
+            </Border.Effect>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Help Buttons -->
+                <StackPanel Grid.Row="0" Margin="0,0,0,10">
+<Button x:Name="btn5050" Content="🎯 50:50" 
+                            Style="{StaticResource HelpButtonStyle}" 
+                            Click="btn5050_Click" Margin="2"/>
+                    <Button x:Name="btnExperts" Content="👥 Tổ tư vấn" 
+                            Style="{StaticResource HelpButtonStyle}" 
+                            Click="btnExperts_Click" Margin="2"/>
+                    <Button x:Name="btnPause" Content="⏸ Tạm dừng" 
+                            Style="{StaticResource HelpButtonStyle}" 
+                            Click="btnPause_Click" Margin="2"/>
+                    <Button x:Name="btnResume" Content="▶ Tiếp tục" 
+                            Style="{StaticResource HelpButtonStyle}" 
+                            Click="btnResume_Click" 
+                            Margin="2" IsEnabled="False"/>
+                </StackPanel>
+
+                <!-- Prize List -->
+                <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                    <StackPanel x:Name="stackPrizeLadder">
+                        <Border x:Name="prize15" Background="#FFFBBF24" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="15. 150.000.000 VNĐ" FontWeight="Bold" Foreground="White" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize14" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="14. 85.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize13" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="13. 60.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize12" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="12. 40.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize11" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="11. 22.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize10" Background="#FFFBBF24" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="10. 14.000.000 VNĐ" FontWeight="Bold" Foreground="White" FontSize="11"/>
+                        </Border>
+<Border x:Name="prize9" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="9. 8.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize8" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="8. 6.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize7" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="7. 3.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize6" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="6. 2.000.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize5" Background="#FFFBBF24" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="5. 1.000.000 VNĐ" FontWeight="Bold" Foreground="White" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize4" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="4. 600.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize3" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="3. 400.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize2" Background="#FFF3F4F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <TextBlock Text="2. 200.000 VNĐ" FontWeight="SemiBold" Foreground="#FF374151" FontSize="11"/>
+                        </Border>
+                        <Border x:Name="prize1" Background="#FF3B82F6" CornerRadius="6" Margin="0,1" Padding="8,6">
+                            <Border.Effect>
+                                <DropShadowEffect Color="#FF3B82F6" Direction="0" ShadowDepth="0" BlurRadius="6" Opacity="0.5"/>
+                            </Border.Effect>
+                            <TextBlock Text="1. 100.000 VNĐ" FontWeight="Bold" Foreground="White" FontSize="11"/>
+                        </Border>
+                    </StackPanel>
+                </ScrollViewer>
+
+                <!-- Game Controls -->
+                <StackPanel Grid.Row="2" Margin="0,10,0,0">
+                    <Button x:Name="btnNewGame" Content="🎮 Game mới" 
+                            Background="{StaticResource PrimaryGradient}"
+Foreground="White" FontWeight="Bold"
+                            Padding="12,8" FontSize="12"
+                            BorderThickness="0" Cursor="Hand"
+                            Click="btnNewGame_Click" 
+                          />
+                    <Button x:Name="btnQuit" Content="🚪 Thoát game" 
+                            Background="#FFEF4444" Foreground="White" 
+                            FontWeight="Bold" Padding="12,8" FontSize="12"
+                            BorderThickness="0" 
+                            Cursor="Hand" Margin="0,8,0,0"
+                            Click="btnQuit_Click"
+                         />
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
