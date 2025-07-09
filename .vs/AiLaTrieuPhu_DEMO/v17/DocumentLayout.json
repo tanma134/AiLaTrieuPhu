@@ -1,68 +1,95 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\",
+  "WorkspaceRootPath": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\as1_prn\\ailatrieuphu_demo\\ailatrieuphu_demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\as1_prn\\ailatrieuphu_demo\\ailatrieuphu_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\as1_prn\\ailatrieuphu_demo\\ailatrieuphu_demo\\question.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\ailatrieuphu_demo\\question.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\question.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\as1_prn\\ailatrieuphu_demo\\menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\as1_prn\\ailatrieuphu_demo\\ailatrieuphu_demo\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\as1_prn\\ailatrieuphu_demo\\resultwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\as1_prn\\ailatrieuphu_demo\\ailatrieuphu_demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\as1_prn\\ailatrieuphu_demo\\resultwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\as1_prn\\ailatrieuphu_demo\\resultwindow\\resultwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\resultwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\as1_prn\\ailatrieuphu_demo\\ailatrieuphu_demo\\ailatrieuphu_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\ailatrieuphu_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\as1_prn\\ailatrieuphu_demo\\menu_game\\menugame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\menugame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menugame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\as1_prn\\ailatrieuphu_demo\\menu_game\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\aboutus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\aboutus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\howtoplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\howtoplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\howtoplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\howtoplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\as1_prn\\ailatrieuphu_demo\\ailatrieuphu_demo\\image\\laivansam.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\ailatrieuphu_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\resultwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\menu_game.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menu_game.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\ailatrieuphu_demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP - Gia Khi\u00EAm\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\ailatrieuphu_demo\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\resultwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\ailatrieuphu_demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\resultwindow\\resultwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\resultwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\ailatrieuphu_demo\\ailatrieuphu_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\ailatrieuphu_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\ailatrieuphu_demo\\image\\laivansam.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\image\\laivansam.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\as1_prn\\ailatrieuphu_demo\\menu_game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\as1_prn\\ailatrieuphu_demo\\menu_game\\images\\hinhnen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\chuyennganhki05\\prn212\\assignment\\assignmentproject\\ailatrieuphu\\menu_game\\images\\hinhnen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\images\\hinhnen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
@@ -73,99 +100,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Menu_Game.csproj",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\Menu_Game.csproj",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
               "RelativeDocumentMoniker": "Menu_Game\\Menu_Game.csproj",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\Menu_Game.csproj",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
               "RelativeToolTip": "Menu_Game\\Menu_Game.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-30T13:43:46.427Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Menu_Game\\MainWindow.xaml",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\MainWindow.xaml",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\MainWindow.xaml",
               "RelativeToolTip": "Menu_Game\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-01T05:41:24.405Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAUwOoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AboutUs.xaml.cs",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml.cs",
+              "RelativeDocumentMoniker": "Menu_Game\\AboutUs.xaml.cs",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml.cs",
+              "RelativeToolTip": "Menu_Game\\AboutUs.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:11:42.773Z",
+              "WhenOpened": "2025-07-09T12:06:28.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HowToPlay.xaml.cs",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml.cs",
+              "RelativeDocumentMoniker": "Menu_Game\\HowToPlay.xaml.cs",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml.cs",
+              "RelativeToolTip": "Menu_Game\\HowToPlay.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:05:21.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUs.xaml",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml",
+              "RelativeDocumentMoniker": "Menu_Game\\AboutUs.xaml",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml",
+              "RelativeToolTip": "Menu_Game\\AboutUs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-09T12:02:53.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MenuGame.xaml.cs",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\MenuGame.xaml.cs",
+              "RelativeDocumentMoniker": "Menu_Game\\MenuGame.xaml.cs",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\MenuGame.xaml.cs",
+              "RelativeToolTip": "Menu_Game\\MenuGame.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:16:38.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HowToPlay.xaml",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml",
+              "RelativeDocumentMoniker": "Menu_Game\\HowToPlay.xaml",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml",
+              "RelativeToolTip": "Menu_Game\\HowToPlay.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-09T12:04:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "question.json",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\question.json",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\question.json",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\question.json",
+              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\question.json",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAMwDEBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T08:21:43.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\App.xaml",
+              "RelativeDocumentMoniker": "Menu_Game\\App.xaml",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\App.xaml",
+              "RelativeToolTip": "Menu_Game\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-09T12:08:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Menu_Game\\AssemblyInfo.cs",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\AssemblyInfo.cs",
+              "RelativeToolTip": "Menu_Game\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:15:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\MainWindow.xaml",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
               "RelativeToolTip": "AiLaTrieuPhu_DEMO\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-01T07:18:47.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "question.json",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\question.json",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\question.json",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\question.json",
-              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\question.json",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAMwPsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-02T08:21:43.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\Question.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\Question.cs",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\Question.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:46:44.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\App.xaml",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\App.xaml",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\App.xaml",
-              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\App.xaml",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ResultWindow\\MainWindow.xaml",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml",
+              "RelativeToolTip": "ResultWindow\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-03T07:02:42.159Z"
+              "WhenOpened": "2025-07-03T06:33:57.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "Menu_Game",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
+              "RelativeDocumentMoniker": "Menu_Game\\Menu_Game.csproj",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
+              "RelativeToolTip": "Menu_Game\\Menu_Game.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T07:32:12.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\ResultWindow\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:11:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\HP - Gia Khi\u00EAm\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\HP - Gia Khi\u00EAm\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCQAAAAuAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:46:53.885Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ResultWindow\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\ResultWindow\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml.cs",
               "RelativeToolTip": "ResultWindow\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,22 +300,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\ResultWindow\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ResultWindow\\MainWindow.xaml",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\ResultWindow\\MainWindow.xaml",
-              "RelativeToolTip": "ResultWindow\\MainWindow.xaml",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\App.xaml",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\App.xaml",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\App.xaml",
+              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-03T06:33:57.434Z"
+              "WhenOpened": "2025-07-03T07:02:42.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\Question.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\Question.cs",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\Question.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_DEMO\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:46:44.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ResultWindow.csproj",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\ResultWindow\\ResultWindow.csproj",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\ResultWindow\\ResultWindow.csproj",
               "RelativeDocumentMoniker": "ResultWindow\\ResultWindow.csproj",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\ResultWindow\\ResultWindow.csproj",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\ResultWindow\\ResultWindow.csproj",
               "RelativeToolTip": "ResultWindow\\ResultWindow.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -196,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "AiLaTrieuPhu_DEMO.csproj",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
               "RelativeToolTip": "AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -208,42 +347,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuGame.xaml.cs",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\MenuGame.xaml.cs",
-              "RelativeDocumentMoniker": "Menu_Game\\MenuGame.xaml.cs",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\MenuGame.xaml.cs",
-              "RelativeToolTip": "Menu_Game\\MenuGame.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T06:16:38.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Menu_Game\\AssemblyInfo.cs",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\AssemblyInfo.cs",
-              "RelativeToolTip": "Menu_Game\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T06:15:38.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "laivansam.png",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\Image\\laivansam.png",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\Image\\laivansam.png",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\Image\\laivansam.png",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO\\Image\\laivansam.png",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\Image\\laivansam.png",
               "RelativeToolTip": "AiLaTrieuPhu_DEMO\\Image\\laivansam.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-07-02T08:16:15.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
@@ -254,11 +369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "hinhNen.png",
-              "DocumentMoniker": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\Images\\hinhNen.png",
+              "DocumentMoniker": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\Images\\hinhNen.png",
               "RelativeDocumentMoniker": "Menu_Game\\Images\\hinhNen.png",
-              "ToolTip": "D:\\AS1_PRN\\AiLaTrieuPhu_DEMO\\Menu_Game\\Images\\hinhNen.png",
+              "ToolTip": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\AssignmentProject\\AiLaTrieuPhu\\Menu_Game\\Images\\hinhNen.png",
               "RelativeToolTip": "Menu_Game\\Images\\hinhNen.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-06-30T14:11:49.049Z"
