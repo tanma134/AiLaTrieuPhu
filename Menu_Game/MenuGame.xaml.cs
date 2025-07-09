@@ -28,6 +28,21 @@ namespace Menu_Game
             menu.Show();
             this.Close(); // Đóng cửa sổ game
         }
+
+        private void AboutUs_Click(object sender, RoutedEventArgs e)
+        {
+
+            AboutUs AboutUs = new AboutUs();
+            AboutUs.Show();
+            this.Close(); // Đóng cửa sổ game
+        }
+
+        private void HowToPlay_Click(object sender, RoutedEventArgs e)
+        {
+            HowToPlay HowToPlay = new HowToPlay();
+            HowToPlay.Show();
+            this.Close(); // Đóng cửa sổ game
+        }
         private void Exit_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();

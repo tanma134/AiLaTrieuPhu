@@ -43,10 +43,10 @@
                 <Setter.Value>
                     <ControlTemplate TargetType="Button">
                         <Border x:Name="border" 
-                                Background="{TemplateBinding Background}"
-                                BorderBrush="{TemplateBinding BorderBrush}"
-                                BorderThickness="{TemplateBinding BorderThickness}"
-                                CornerRadius="20">
+                            Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="20">
                             <Border.Effect>
                                 <DropShadowEffect Color="Black" Direction="315" ShadowDepth="3" Opacity="0.5"/>
                             </Border.Effect>
@@ -78,13 +78,13 @@
         <!-- Logo Animation -->
         <Storyboard x:Key="LogoAnimation" RepeatBehavior="Forever">
             <DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(RotateTransform.Angle)"
-                             From="0" To="360" Duration="0:0:20"/>
+                         From="0" To="360" Duration="0:0:20"/>
         </Storyboard>
 
         <!-- Sparkle Animation -->
         <Storyboard x:Key="SparkleAnimation" RepeatBehavior="Forever">
             <DoubleAnimation Storyboard.TargetProperty="Opacity"
-                             From="0.3" To="1.0" Duration="0:0:2" AutoReverse="True"/>
+                         From="0.3" To="1.0" Duration="0:0:2" AutoReverse="True"/>
         </Storyboard>
     </Window.Resources>
 
@@ -162,6 +162,18 @@
                         Width="120" Height="45" 
                         Margin="10,0"
                         Style="{StaticResource MenuButtonStyle}"/>
+
+                <Button x:Name="btnGioiThieu" Content="GIỚI THIỆU" 
+                    Width="120" Height="45" 
+                    Margin="10,0"
+                    Style="{StaticResource MenuButtonStyle}"
+                    Click="AboutUs_Click"/>
+
+                <Button x:Name="btnHowToPlay" Content="CÁCH CHƠI" 
+                    Width="120" Height="45" 
+                    Margin="10,0"
+                    Style="{StaticResource MenuButtonStyle}"
+                    Click="HowToPlay_Click"/>
             </StackPanel>
 
             <!-- Website info -->
