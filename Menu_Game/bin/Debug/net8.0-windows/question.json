@@ -1,0 +1,496 @@
+﻿[
+    {
+        "QuestionText": "Quốc gia nào có diện tích lớn nhất thế giới?",
+        "Options": [ "Trung Quốc", "Nga", "Mỹ", "Canada" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "2 + 2 x 2 = ?",
+        "Options": [ "6", "8", "4", "10" ],
+        "CorrectAnswer": "A",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Màu sắc của lá cờ Việt Nam gồm những màu nào?",
+        "Options": [ "Đỏ và vàng", "Xanh và trắng", "Vàng và đen", "Đỏ và xanh" ],
+        "CorrectAnswer": "A",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Một tuần có bao nhiêu ngày?",
+        "Options": [ "5", "6", "7", "8" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Quả nào dưới đây là trái cây?",
+        "Options": [ "Cà chua", "Khoai tây", "Cà rốt", "Hành tây" ],
+        "CorrectAnswer": "A",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Số Pi (π) xấp xỉ bằng bao nhiêu?",
+        "Options": [ "2.14", "3.14", "1.41", "4.13" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Trẻ em thường học lớp 1 ở độ tuổi nào?",
+        "Options": [ "4", "5", "6", "7" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Con vật nào kêu 'meo meo'?",
+        "Options": [ "Chó", "Mèo", "Gà", "Vịt" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Mặt trời mọc ở hướng nào?",
+        "Options": [ "Tây", "Đông", "Nam", "Bắc" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Thủ đô Thái Lan là thành phố nào?",
+        "Options": [ "Bangkok", "Jakarta", "Hà Nội", "Manila" ],
+        "CorrectAnswer": "A",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Nốt nhạc cao nhất trong dãy cơ bản là?",
+        "Options": [ "La", "Si", "Sol", "Mi" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Tứ giác có tổng số góc là bao nhiêu độ?",
+        "Options": [ "180", "270", "360", "90" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Sông nào dài nhất Việt Nam?",
+        "Options": [ "Sông Hồng", "Sông Đà", "Sông Cửu Long", "Sông Đồng Nai" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Ngọn núi cao nhất thế giới là?",
+        "Options": [ "Phanxipăng", "Everest", "An-pơ", "Phú Sĩ" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Lễ hội chọi trâu nổi tiếng ở tỉnh nào?",
+        "Options": [ "Bắc Giang", "Phú Thọ", "Hải Phòng", "Nam Định" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Quốc gia nào nổi tiếng với đồng hồ và sô-cô-la?",
+        "Options": [ "Pháp", "Đức", "Thụy Sĩ", "Ý" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Hình tròn có bao nhiêu cạnh?",
+        "Options": [ "0", "1", "2", "3" ],
+        "CorrectAnswer": "A",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Bảng chữ cái tiếng Việt có bao nhiêu chữ cái?",
+        "Options": [ "26", "29", "30", "27" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Trái đất nằm trong hệ gì?",
+        "Options": [ "Hệ mặt trăng", "Hệ mặt trời", "Hệ ngân hà", "Hệ sao Hỏa" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Việt Nam từng vô địch AFF Cup năm nào?",
+        "Options": [ "2005", "2008", "2010", "2015" ],
+        "CorrectAnswer": "B",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Nhạc sĩ Trịnh Công Sơn nổi tiếng với dòng nhạc nào?",
+        "Options": [ "Cách mạng", "Trẻ", "Trữ tình", "Thiếu nhi" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Ca sĩ nào được mệnh danh là 'Nữ hoàng nhạc Pop'?",
+        "Options": [ "Lady Gaga", "Taylor Swift", "Madonna", "Adele" ],
+        "CorrectAnswer": "C",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Phim hoạt hình 'Frozen' có bài hát nổi tiếng nào?",
+        "Options": [ "Let It Go", "Shake It Off", "Happy", "Baby Shark" ],
+        "CorrectAnswer": "A",
+        "Level": "easy"
+    },
+    {
+        "QuestionText": "Hãng phim hoạt hình nào sản xuất 'Toy Story'?",
+        "Options": [ "DreamWorks", "Disney", "Pixar", "Universal" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Tác phẩm 'Chuyện người con gái Nam Xương' là của ai?",
+        "Options": [ "Nguyễn Du", "Nguyễn Dữ", "Nguyễn Trãi", "Nguyễn Huy Tưởng" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Bộ phim 'Avengers: Endgame' ra mắt vào năm nào?",
+        "Options": [ "2017", "2018", "2019", "2020" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Tốc độ ánh sáng trong chân không xấp xỉ bao nhiêu?",
+        "Options": [ "300,000 km/s", "150,000 km/s", "3,000 km/s", "30,000 km/s" ],
+        "CorrectAnswer": "A",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Trái Đất có bao nhiêu châu lục?",
+        "Options": [ "5", "6", "7", "8" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+
+    {
+        "QuestionText": "Thành phần chính của nước biển là gì?",
+        "Options": [ "Muối", "Đường", "Axit", "Cồn" ],
+        "CorrectAnswer": "A",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Quốc gia nào có diện tích lớn thứ hai thế giới sau Nga?",
+        "Options": [ "Mỹ", "Canada", "Trung Quốc", "Brazil" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Trong tin học, 'CPU' là viết tắt của từ gì?",
+        "Options": [ "Central Performance Unit", "Central Processing Unit", "Computer Power Unit", "Core Processing Unit" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Thành phố nào được gọi là 'Thành phố ngàn hoa' của Việt Nam?",
+        "Options": [ "Đà Lạt", "Huế", "Hội An", "Hà Nội" ],
+        "CorrectAnswer": "A",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Hành tinh nào gần Mặt Trời nhất?",
+        "Options": [ "Trái Đất", "Sao Hỏa", "Sao Thủy", "Sao Kim" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Tác giả của truyện 'Chiếc lược ngà' là ai?",
+        "Options": [ "Nguyễn Nhật Ánh", "Nguyễn Minh Châu", "Nguyễn Quang Sáng", "Tô Hoài" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Ai là người đầu tiên đặt chân lên Mặt Trăng?",
+        "Options": [ "Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "John Glenn" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Năm nhuận xảy ra bao nhiêu năm một lần?",
+        "Options": [ "2", "3", "4", "5" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Đơn vị đo cường độ dòng điện là gì?",
+        "Options": [ "Volt", "Ampe", "Oát", "Ohm" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Tác phẩm 'Lục Vân Tiên' là của ai?",
+        "Options": [ "Nguyễn Đình Chiểu", "Nguyễn Trãi", "Nguyễn Du", "Hồ Xuân Hương" ],
+        "CorrectAnswer": "A",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Quốc gia nào nổi tiếng với điệu nhảy Tango?",
+        "Options": [ "Mexico", "Brazil", "Argentina", "Tây Ban Nha" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Bản giao hưởng 'Số 9' là tác phẩm nổi tiếng của nhạc sĩ nào?",
+        "Options": [ "Mozart", "Chopin", "Beethoven", "Bach" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Cầu thủ nào giành Quả bóng vàng năm 2022?",
+        "Options": [ "Lionel Messi", "Cristiano Ronaldo", "Karim Benzema", "Luka Modrić" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "CLB nào có biệt danh là 'Quỷ đỏ'?",
+        "Options": [ "Manchester City", "Bỉ", "Chelsea", "Arsenal" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Cầu thủ người Bồ Đào Nha nào từng chơi cho Real Madrid và Juventus?",
+        "Options": [ "João Félix", "Pepe", "Di Maria", "Bruno Fernandes" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Ca sĩ nào nổi tiếng với ca khúc 'Hello' và 'Someone Like You'?",
+        "Options": [ "Adele", "Rihanna", "Taylor Swift", "Lady Gaga" ],
+        "CorrectAnswer": "A",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Nhạc cụ truyền thống nào thường đi kèm với cải lương Việt Nam?",
+        "Options": [ "Đàn tranh", "Sáo trúc", "Đàn nhị", "Đàn bầu" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Giọng hát nam cao nhất được gọi là gì?",
+        "Options": [ "Bass", "Tenor", "Baritone", "Alto" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Người Việt Nam đầu tiên bay vào vũ trụ là ai?",
+        "Options": [ "Phạm Tuân", "Trần Đại Nghĩa", "Võ Nguyên Giáp", "Nguyễn Chí Thanh" ],
+        "CorrectAnswer": "A",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Quốc ca Việt Nam có tên là gì?",
+        "Options": [ "Tiến bước dưới quân kỳ", "Tiến Quân Ca", "Chiến sĩ Việt Nam", "Việt Nam quê hương tôi" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Trong bảng tuần hoàn, ký hiệu của nguyên tố Vàng là gì?",
+        "Options": [ "G", "Ag", "Au", "Ga" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Tác giả của 'Truyện Kiều' là ai?",
+        "Options": [ "Hồ Xuân Hương", "Nguyễn Trãi", "Nguyễn Du", "Tản Đà" ],
+        "CorrectAnswer": "C",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Châu lục nào có diện tích nhỏ nhất?",
+        "Options": [ "Châu Úc", "Châu Âu", "Châu Phi", "Châu Nam Cực" ],
+        "CorrectAnswer": "A",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Tổng thống đầu tiên của nước Mỹ là ai?",
+        "Options": [ "Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Năm nhuận có bao nhiêu ngày?",
+        "Options": [ "365", "366", "364", "367" ],
+        "CorrectAnswer": "B",
+        "Level": "medium"
+    },
+    {
+        "QuestionText": "Nguyên tử hydro có bao nhiêu proton?",
+        "Options": [ "1", "2", "0", "3" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Trong lập trình, 'OOP' là viết tắt của gì?",
+        "Options": [ "Object Oriented Programming", "Open Operating Procedure", "Optional Output Processing", "Object Option Page" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Sự kiện nào đánh dấu sự sụp đổ của Liên Xô?",
+        "Options": [ "Chiến tranh lạnh", "Bức tường Berlin sụp đổ", "Năm 1991", "Cách mạng tháng Mười Nga" ],
+        "CorrectAnswer": "C",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Nhà văn nào được mệnh danh là 'ông hoàng truyện trinh thám'?",
+        "Options": [ "Arthur Conan Doyle", "Stephen King", "Agatha Christie", "Dan Brown" ],
+        "CorrectAnswer": "C",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Trong toán học, giới hạn lim(x→0) sin(x)/x bằng bao nhiêu?",
+        "Options": [ "0", "∞", "1", "Không xác định" ],
+        "CorrectAnswer": "C",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Chất nào sau đây là dẫn điện tốt nhất?",
+        "Options": [ "Đồng", "Vàng", "Bạc", "Sắt" ],
+        "CorrectAnswer": "C",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Ai là tác giả của định luật vạn vật hấp dẫn?",
+        "Options": [ "Einstein", "Newton", "Galileo", "Faraday" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Tác phẩm 'Thép đã tôi thế đấy!' là của tác giả nào?",
+        "Options": [ "Pautovsky", "Aitmatov", "Ostrovsky", "Lev Tolstoy" ],
+        "CorrectAnswer": "C",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Ai là người đặt nền móng cho học thuyết tiến hóa?",
+        "Options": [ "Isaac Newton", "Charles Darwin", "Louis Pasteur", "Gregor Mendel" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Hệ điều hành Linux ban đầu được phát triển bởi ai?",
+        "Options": [ "Linus Torvalds", "Bill Gates", "Steve Jobs", "Dennis Ritchie" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Tế bào nào trong cơ thể người không có nhân?",
+        "Options": [ "Tế bào máu đỏ", "Tế bào thần kinh", "Tế bào da", "Tế bào xương" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Ai là HLV đưa Leicester City vô địch Ngoại hạng Anh mùa giải 2015–2016?",
+        "Options": [ "Brendan Rodgers", "Claudio Ranieri", "Nigel Pearson", "Jose Mourinho" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Quốc gia nào đăng cai World Cup đầu tiên vào năm 1930?",
+        "Options": [ "Brazil", "Uruguay", "Argentina", "Ý" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Ca sĩ Việt Nam nào từng biểu diễn tại Asia Song Festival ở Hàn Quốc năm 2008?",
+        "Options": [ "Hồ Quỳnh Hương", "Mỹ Tâm", "Đông Nhi", "Hồ Ngọc Hà" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Ai là nghệ sĩ đầu tiên đạt 100 triệu lượt stream trên Spotify?",
+        "Options": [ "Ed Sheeran", "Drake", "Ariana Grande", "The Weeknd" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Bản giao hưởng 'Bức tranh triển lãm' là của nhà soạn nhạc nào?",
+        "Options": [ "Modest Mussorgsky", "Tchaikovsky", "Mozart", "Schubert" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Album nào đưa Taylor Swift giành Grammy 'Album của năm' đầu tiên?",
+        "Options": [ "1989", "Fearless", "Red", "Reputation" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Nhạc cụ nào sau đây KHÔNG có trong dàn nhạc giao hưởng tiêu chuẩn?",
+        "Options": [ "Oboe", "Harpsichord", "Viola", "Clarinet" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Trong vật lý, đại lượng nào được đo bằng đơn vị Newton?",
+        "Options": [ "Khối lượng", "Áp suất", "Lực", "Công suất" ],
+        "CorrectAnswer": "C",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Nguyên tố nào có số nguyên tử là 26?",
+        "Options": [ "Fe", "Cu", "Zn", "Ag" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Cầu thủ nào giữ kỷ lục ghi bàn nhiều nhất trong một kỳ World Cup?",
+        "Options": [ "Miroslav Klose", "Just Fontaine", "Ronaldo Nazário", "Gerd Müller" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+
+    {
+        "QuestionText": "Ai là cầu thủ đầu tiên ghi bàn tại một kỳ World Cup?",
+        "Options": [ "Lucien Laurent", "Leônidas da Silva", "Obdulio Varela", "Giuseppe Meazza" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Trận đấu quốc tế đầu tiên trong lịch sử bóng đá diễn ra giữa hai quốc gia nào?",
+        "Options": [ "Anh và Pháp", "Anh và Scotland", "Ý và Áo", "Argentina và Uruguay" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "HLV nào từng vô địch Champions League với 3 CLB khác nhau?",
+        "Options": [ "José Mourinho", "Carlo Ancelotti", "Ottmar Hitzfeld", "Chưa ai làm được" ],
+        "CorrectAnswer": "D",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Cầu thủ nào từng thi đấu cho cả Barcelona, Real Madrid, Inter Milan và AC Milan?",
+        "Options": [ "Luis Figo", "Zlatan Ibrahimović", "Samuel Eto'o", "Clarence Seedorf" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Bản nhạc giao hưởng 'Also sprach Zarathustra' được dùng trong bộ phim nào?",
+        "Options": [ "Interstellar", "Inception", "2001: A Space Odyssey", "The Godfather" ],
+        "CorrectAnswer": "C",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Ca sĩ người Iceland từng được đề cử Oscar cho nhạc phim 'Dancer in the Dark' là ai?",
+        "Options": [ "Aurora", "Björk", "Of Monsters and Men", "Sigur Rós" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "Nốt nhạc cao nhất từng được ghi lại trong một bản thu âm thương mại là của ca sĩ nào?",
+        "Options": [ "Mariah Carey", "Dimash Kudaibergen", "Whitney Houston", "Ariana Grande" ],
+        "CorrectAnswer": "A",
+        "Level": "hard"
+    },
+    {
+        "QuestionText": "John Cage nổi tiếng với tác phẩm âm nhạc nào gồm 4 phút 33 giây im lặng?",
+        "Options": [ "Symphony of Silence", "4'33\"", "Absolute Zero", "Mute Sonata" ],
+        "CorrectAnswer": "B",
+        "Level": "hard"
+    }
+]

@@ -1,20 +1,13 @@
-﻿using System.Text;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using AiLaTrieuPhu_DEMO; // Thêm namespace chứa MainWindow
+﻿using System.Windows;
+using AiLaTrieuPhu_Account.Helper;  // Bạn phải Add Reference sang project Account
+using AiLaTrieuPhu_Account.Model;
+using AiLaTrieuPhu_DEMO;
 
 namespace Menu_Game
 {
-    /// <summary>  
-    /// Interaction logic for MenuGame.xaml  
-    /// </summary>  
+    /// <summary>
+    /// Interaction logic for MenuGame.xaml
+    /// </summary>
     public partial class MenuGame : Window
     {
         public MenuGame()
@@ -24,31 +17,53 @@ namespace Menu_Game
 
         private void StartGame_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow menu = new MainWindow();
-            menu.Show();
-            this.Close(); // Đóng cửa sổ game
+            // Mở form đăng nhập (login dialog)
+            var loginWin = new AiLaTrieuPhu_Account.View.LoginWindow();
+            var result = loginWin.ShowDialog();
+
+            if (result == true)
+            {
+                var currentUser = AccountService.CurrentAccount;
+                if (currentUser != null && currentUser.Role == "Admin")
+                {
+                    // TODO: Thay thế bằng UI dashboard Admin thực tế của bạn
+                    MessageBox.Show("Đây là tài khoản Admin. Chuyển sang dashboard admin.");
+                    // new AiLaTrieuPhu_Account.View.AdminDashboardWindow().Show();
+                    // this.Close();
+                }
+                else if (currentUser != null && currentUser.Role == "Guest")
+                {
+                    // Chuyển sang màn hình chơi game cho Guest
+                    MainWindow menu = new MainWindow();
+                    menu.Show();
+                    this.Close();
+                }
+            }
+            // Nếu đăng nhập sai hoặc user đóng login thì không làm gì, vẫn ở lại menu game.
         }
 
         private void AboutUs_Click(object sender, RoutedEventArgs e)
         {
-
-            AboutUs AboutUs = new AboutUs();
-            AboutUs.Show();
-            this.Close(); // Đóng cửa sổ game
+            AboutUs aboutUs = new AboutUs();
+            aboutUs.Show();
+            this.Close();
         }
 
         private void HowToPlay_Click(object sender, RoutedEventArgs e)
         {
-            HowToPlay HowToPlay = new HowToPlay();
-            HowToPlay.Show();
-            this.Close(); // Đóng cửa sổ game
+            HowToPlay howToPlay = new HowToPlay();
+            howToPlay.Show();
+            this.Close();
         }
+
         private void Exit_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();
         }
+
         private void HuongDan_Click(object sender, RoutedEventArgs e)
         {
+            // Mở hướng dẫn nếu bạn có chức năng này
         }
     }
 }
