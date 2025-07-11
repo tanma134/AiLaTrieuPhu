@@ -1,0 +1,38 @@
+[
+  {
+    "Username": "admin",
+    "Password": "admin123",
+    "Email": "admin@gmail.com",
+    "Role": "Admin"
+  },
+  {
+    "Username": "guest1",
+    "Password": "123456",
+    "Email": "guest1@example.com",
+    "Role": "Guest"
+  },
+  {
+    "Username": "pha",
+    "Password": "123456",
+    "Email": "pha@gmail.com",
+    "Role": "Guest"
+  },
+  {
+    "Username": "tai12",
+    "Password": "111111",
+    "Email": "nguyenhuutai136mk@gmail.com",
+    "Role": "Guest"
+  },
+  {
+    "Username": "bbbb",
+    "Password": "123456",
+    "Email": "bbbb@gmail.com",
+    "Role": "Guest"
+  },
+  {
+    "Username": "huutai",
+    "Password": "123456",
+    "Email": "nguyenhuutai123xxx@gmail.com",
+    "Role": "Guest"
+  }
+]
