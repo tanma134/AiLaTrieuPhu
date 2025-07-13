@@ -10,7 +10,8 @@ namespace AiLaTrieuPhu_Account.Helper
     public static class AccountService
     {
         // Đường dẫn trỏ về thư mục gốc của project
-        private static readonly string FilePath = @"E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\accounts.json";
+        private static readonly string FilePath = System.IO.Path.Combine(
+    System.AppDomain.CurrentDomain.BaseDirectory, "accounts.json");
 
         public static Account CurrentAccount { get; set; }
 
