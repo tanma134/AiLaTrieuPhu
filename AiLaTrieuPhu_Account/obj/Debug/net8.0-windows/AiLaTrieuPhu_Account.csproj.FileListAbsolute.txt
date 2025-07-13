@@ -39,3 +39,4 @@ E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-window
 E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.pdb
 E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.csproj.AssemblyReference.cache
 E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrie.2C4A6563.Up2Date
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\accounts.json

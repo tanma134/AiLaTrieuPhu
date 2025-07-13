@@ -41,3 +41,4 @@ E:\Ki 5\New folder\ASM\AiLaTrieuPhu\Menu_Game\bin\Debug\net8.0-windows\AiLaTrieu
 E:\Ki 5\New folder\ASM\AiLaTrieuPhu\Menu_Game\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.exe
 E:\Ki 5\New folder\ASM\AiLaTrieuPhu\Menu_Game\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.dll
 E:\Ki 5\New folder\ASM\AiLaTrieuPhu\Menu_Game\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.pdb
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\Menu_Game\bin\Debug\net8.0-windows\accounts.json
