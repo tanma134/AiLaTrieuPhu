@@ -1,0 +1,327 @@
+﻿<Window x:Class="AdminManagement.View.AdminManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quản lý Câu hỏi - Ai Là Triệu Phú" Height="764" Width="1232"
+        Background="#0A1B3D" WindowStyle="SingleBorderWindow" ResizeMode="CanResize">
+
+    <Window.Resources>
+        <!-- Gradient Background cho toàn bộ window -->
+        <LinearGradientBrush x:Key="MainBackground" StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="#0A1B3D" Offset="0"/>
+            <GradientStop Color="#1E3A5F" Offset="0.3"/>
+            <GradientStop Color="#2B4F7D" Offset="0.7"/>
+            <GradientStop Color="#0A1B3D" Offset="1"/>
+        </LinearGradientBrush>
+
+        <!-- Style cho Button giống "Ai là triệu phú" -->
+        <Style x:Key="MillionaireButton" TargetType="Button">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Color="#FFD700" Offset="0"/>
+                        <GradientStop Color="#FFA500" Offset="0.5"/>
+                        <GradientStop Color="#FF8C00" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Foreground" Value="#000080"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="BorderBrush" Value="#FFD700"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" 
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientStop Color="#FFFF00" Offset="0"/>
+                                            <GradientStop Color="#FFD700" Offset="0.5"/>
+                                            <GradientStop Color="#FFA500" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#FFFF00"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientStop Color="#FF8C00" Offset="0"/>
+                                            <GradientStop Color="#FFA500" Offset="0.5"/>
+                                            <GradientStop Color="#FFD700" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Style cho TextBox -->
+        <Style x:Key="MillionaireTextBox" TargetType="TextBox">
+            <Setter Property="Background" Value="#F0F8FF"/>
+            <Setter Property="Foreground" Value="#000080"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="BorderBrush" Value="#FFD700"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Name="border" 
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="3">
+                            <ScrollViewer Name="PART_ContentHost" Margin="2"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter TargetName="border" Property="BorderBrush" Value="#FFFF00"/>
+                                <Setter TargetName="border" Property="Background" Value="#FFFACD"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Style cho Label -->
+        <Style x:Key="MillionaireLabel" TargetType="Label">
+            <Setter Property="Foreground" Value="#FFD700"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="12"/>
+        </Style>
+
+        <!-- Style cho DataGrid -->
+        <Style x:Key="MillionaireDataGrid" TargetType="DataGrid">
+            <Setter Property="Background" Value="#F0F8FF"/>
+            <Setter Property="Foreground" Value="#000080"/>
+            <Setter Property="GridLinesVisibility" Value="All"/>
+            <Setter Property="HorizontalGridLinesBrush" Value="#FFD700"/>
+            <Setter Property="VerticalGridLinesBrush" Value="#FFD700"/>
+            <Setter Property="BorderBrush" Value="#FFD700"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="RowBackground" Value="#F0F8FF"/>
+            <Setter Property="AlternatingRowBackground" Value="#E6F3FF"/>
+            <Setter Property="HeadersVisibility" Value="Column"/>
+        </Style>
+        
+
+        <!-- Style cho DataGrid Header -->
+        <Style x:Key="MillionaireDataGridColumnHeader" TargetType="DataGridColumnHeader">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Color="#FFD700" Offset="0"/>
+                        <GradientStop Color="#FFA500" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Foreground" Value="#000080"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="BorderBrush" Value="#FF8C00"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style x:Key="MillionaireComboBox" TargetType="ComboBox">
+            <Setter Property="Foreground" Value="#000080"/>
+            <Setter Property="Background" Value="#F0F8FF"/>
+            <Setter Property="BorderBrush" Value="#FFD700"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <ToggleButton Name="ToggleButton"
+                                  Background="{TemplateBinding Background}"
+                                  BorderBrush="{TemplateBinding BorderBrush}"
+                                  BorderThickness="{TemplateBinding BorderThickness}"
+                                  Foreground="{TemplateBinding Foreground}"
+                                  IsChecked="{Binding IsDropDownOpen, RelativeSource={RelativeSource TemplatedParent}}"
+                                  ClickMode="Press"
+                                  Focusable="False"
+                                  Padding="2">
+                                <Path x:Name="Arrow" Margin="5,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Center"
+                              Fill="#000080" Data="M 0 0 L 4 4 L 8 0 Z"/>
+                            </ToggleButton>
+
+                            <ContentPresenter x:Name="ContentSite"
+                                      IsHitTestVisible="False"
+                                      Content="{TemplateBinding SelectionBoxItem}"
+                                      ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"
+                                      Margin="5,3,25,3"
+                                      VerticalAlignment="Center"
+                                      HorizontalAlignment="Left"/>
+
+                            <Popup Name="Popup"
+                           Placement="Bottom"
+                           IsOpen="{TemplateBinding IsDropDownOpen}"
+                           AllowsTransparency="True"
+                           Focusable="False"
+                           PopupAnimation="Slide">
+                                <Border Name="DropDownBorder"
+                                SnapsToDevicePixels="True"
+                                Background="#F0F8FF"
+                                BorderBrush="#FFD700"
+                                BorderThickness="1">
+                                    <ScrollViewer Margin="4,6,4,6" SnapsToDevicePixels="True">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained" />
+                                    </ScrollViewer>
+                                </Border>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid Margin="10" Background="{StaticResource MainBackground}">
+        <!-- Chia cột: bên trái là DataGrid, bên phải là TextBox -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title -->
+        <TextBlock Text="🏆 QUẢN LÝ CÂU HỎI AI LÀ TRIỆU PHÚ 🏆" 
+                   Grid.ColumnSpan="2" Grid.Row="0"
+                   FontSize="20" FontWeight="Bold" 
+                   Foreground="#FFD700"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,10"/>
+
+        <!-- DataGrid danh sách câu hỏi -->
+        <DataGrid x:Name="questionDataGrid"
+                  Grid.Column="0" Grid.Row="1"
+                  Margin="0,10,10,10"
+                  Style="{StaticResource MillionaireDataGrid}"
+                  ColumnHeaderStyle="{StaticResource MillionaireDataGridColumnHeader}"
+                  AutoGenerateColumns="False"
+                  SelectionMode="Single"
+                  SelectionChanged="questionDataGrid_SelectionChanged"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Câu hỏi" Binding="{Binding QuestionText}" Width="*"/>
+                <DataGridTextColumn Header="A" Binding="{Binding Options[0]}" Width="100"/>
+                <DataGridTextColumn Header="B" Binding="{Binding Options[1]}" Width="100"/>
+                <DataGridTextColumn Header="C" Binding="{Binding Options[2]}" Width="100"/>
+                <DataGridTextColumn Header="D" Binding="{Binding Options[3]}" Width="100"/>
+                <DataGridTextColumn Header="Đúng" Binding="{Binding CorrectAnswer}" Width="50"/>
+                <DataGridTextColumn Header="Level" Binding="{Binding Level}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Panel nhập thông tin câu hỏi -->
+        <Border Grid.Column="1" Grid.Row="1" Margin="10,10,0,10"
+                Background="#1E3A5F" BorderBrush="#FFD700" BorderThickness="2" CornerRadius="10">
+            <StackPanel Margin="15">
+                <Label Content="🔍 Tìm theo nội dung câu hỏi:" Style="{StaticResource MillionaireLabel}"/>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                    <TextBox x:Name="txtSearch" Width="200" Style="{StaticResource MillionaireTextBox}" Margin="0,0,10,0"/>
+                    <Button Content="Tìm" Width="60" Style="{StaticResource MillionaireButton}" Click="Search_Click"/>
+                    <Button Content="🧹 Xóa tìm" Width="80" Margin="5,0,0,0" Style="{StaticResource MillionaireButton}" Click="ClearSearch_Click"/>
+                    <Button Content="🚪 Logout" Width="76" Margin="5,0,0,0"
+        Style="{StaticResource MillionaireButton}" Click="Logout_Click"/>
+
+                </StackPanel>
+
+                <TextBlock Text="📝 THÔNG TIN CÂU HỎI" 
+                          FontSize="14" FontWeight="Bold" 
+                          Foreground="#FFD700" 
+                          HorizontalAlignment="Center" 
+                          Margin="0,0,0,15"/>
+
+                <Label Content="Câu hỏi:" Style="{StaticResource MillionaireLabel}"/>
+                <TextBox x:Name="txtQuestion" Width="300" Margin="0,0,0,10" 
+                         Style="{StaticResource MillionaireTextBox}" Height="40" TextWrapping="Wrap"/>
+
+                <Label Content="🅰️ Đáp án A:" Style="{StaticResource MillionaireLabel}"/>
+                <TextBox x:Name="txtA" Width="300" Margin="0,0,0,10" Style="{StaticResource MillionaireTextBox}"/>
+
+                <Label Content="🅱️ Đáp án B:" Style="{StaticResource MillionaireLabel}"/>
+                <TextBox x:Name="txtB" Width="300" Margin="0,0,0,10" Style="{StaticResource MillionaireTextBox}"/>
+
+                <Label Content="🅲 Đáp án C:" Style="{StaticResource MillionaireLabel}"/>
+                <TextBox x:Name="txtC" Width="300" Margin="0,0,0,10" Style="{StaticResource MillionaireTextBox}"/>
+
+                <Label Content="🅳 Đáp án D:" Style="{StaticResource MillionaireLabel}"/>
+                <TextBox x:Name="txtD" Width="300" Margin="0,0,0,10" Style="{StaticResource MillionaireTextBox}"/>
+
+                <Label Content="✅ Đáp án đúng (A/B/C/D):" Style="{StaticResource MillionaireLabel}"/>
+                <ComboBox x:Name="cmbCorrect"
+          Width="80"
+          Margin="0,0,0,10"
+          Style="{StaticResource MillionaireComboBox}"
+          SelectedIndex="0">
+                    <ComboBoxItem Content="A"/>
+                    <ComboBoxItem Content="B"/>
+                    <ComboBoxItem Content="C"/>
+                    <ComboBoxItem Content="D"/>
+                </ComboBox>
+
+
+                <Label Content="📊 Level (easy/medium/hard):" Style="{StaticResource MillionaireLabel}"/>
+                <ComboBox x:Name="cmbLevel"
+          Width="150"
+          Margin="0,0,0,15"
+          Style="{StaticResource MillionaireComboBox}"
+          SelectedIndex="0">
+                    <ComboBoxItem Content="easy"/>
+                    <ComboBoxItem Content="medium"/>
+                    <ComboBoxItem Content="hard"/>
+                </ComboBox>
+
+
+
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                    <Button Content="➕ Thêm" Width="85" Height="22" Padding="6,0" Margin="4"
+        Style="{StaticResource MillionaireButton}" Click="Add_Click"/>
+                    <Button Content="✏️ Sửa" Width="85" Height="23" Padding="6,0" Margin="4"
+        Style="{StaticResource MillionaireButton}" Click="Update_Click"/>
+                    <Button Content="🗑️ Xoá" Width="85" Height="23" Padding="6,0" Margin="4"
+        Style="{StaticResource MillionaireButton}" Click="Delete_Click"/>
+                    <Button Content="💾 Lưu" Width="85" Height="25" Padding="6,0" Margin="4"
+        Style="{StaticResource MillionaireButton}" Click="Save_Click" RenderTransformOrigin="0.5,0.5">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform AngleX="6.71"/>
+                                <RotateTransform/>
+                                <TranslateTransform X="1.882"/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+                    </Button>
+
+
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

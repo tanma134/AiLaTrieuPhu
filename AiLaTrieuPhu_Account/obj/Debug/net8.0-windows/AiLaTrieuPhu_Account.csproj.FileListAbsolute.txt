@@ -1,0 +1,84 @@
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.exe
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.deps.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.runtimeconfig.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.dll
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.pdb
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\LoginWindow.g.cs
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\App.g.cs
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account_MarkupCompile.cache
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account_MarkupCompile.lref
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\LoginWindow.baml
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.g.resources
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.AssemblyInfoInputs.cache
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.AssemblyInfo.cs
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.csproj.CoreCompileInputs.cache
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.sourcelink.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.dll
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\refint\AiLaTrieuPhu_Account.dll
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.pdb
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.genruntimeconfig.cache
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\ref\AiLaTrieuPhu_Account.dll
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\RegisterWindow.g.cs
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\RegisterWindow.baml
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\ForgotPasswordWindow.baml
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\ForgotPasswordWindow.g.cs
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.deps.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.runtimeconfig.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.deps.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.runtimeconfig.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.exe
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.exe
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\question.json
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.dll
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.dll
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.pdb
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.pdb
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.csproj.AssemblyReference.cache
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrie.2C4A6563.Up2Date
+E:\Ki 5\New folder\ASM\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\accounts.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.deps.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.runtimeconfig.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.deps.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.runtimeconfig.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.exe
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.exe
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.exe
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\question.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\accounts.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.deps.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.runtimeconfig.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.dll
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_Account.pdb
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.dll
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.dll
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\AiLaTrieuPhu_DEMO.pdb
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\bin\Debug\net8.0-windows\ResultWindow.pdb
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.csproj.AssemblyReference.cache
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\ForgotPasswordWindow.baml
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\ForgotPasswordWindow.g.cs
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\LoginWindow.g.cs
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\RegisterWindow.g.cs
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\App.g.cs
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account_MarkupCompile.cache
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account_MarkupCompile.lref
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\LoginWindow.baml
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\View\RegisterWindow.baml
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.g.resources
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.AssemblyInfoInputs.cache
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.AssemblyInfo.cs
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.csproj.CoreCompileInputs.cache
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.sourcelink.json
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrie.2C4A6563.Up2Date
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.dll
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\refint\AiLaTrieuPhu_Account.dll
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.pdb
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\AiLaTrieuPhu_Account.genruntimeconfig.cache
+D:\ChuyenNganhKi05\PRN212\Assignment\Project\AiLaTrieuPhu\AiLaTrieuPhu_Account\obj\Debug\net8.0-windows\ref\AiLaTrieuPhu_Account.dll
