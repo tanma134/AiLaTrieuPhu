@@ -135,7 +135,7 @@
                 BorderThickness="4"
                 Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush ImageSource="pack://application:,,,/Image_AboutUS/NguyenHuuTaiEdited.jpg" Stretch="UniformToFill"/>
+                        <ImageBrush ImageSource="pack://application:,,,/Image_AboutUS/NguyenHuuTai.jpg" Stretch="UniformToFill"/>
                     </Border.Background>
                     <Border.Effect>
                         <DropShadowEffect Color="#4A90E2" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
@@ -156,7 +156,7 @@
                 BorderThickness="4"
                 Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush Stretch="UniformToFill"/>
+                        <ImageBrush ImageSource="pack://application:,,,/Image_AboutUs/MaNhatTan.jpg" Stretch="UniformToFill"/>
                     </Border.Background>
                     <Border.Effect>
                         <DropShadowEffect Color="#4A90E2" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
@@ -177,7 +177,7 @@
                 BorderThickness="4"
                 Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush  Stretch="UniformToFill"/>
+                        <ImageBrush ImageSource="pack://application:,,,/Image_AboutUs/NPGiaKhiem.jpg" Stretch="UniformToFill"/>
                     </Border.Background>
                     <Border.Effect>
                         <DropShadowEffect Color="#4A90E2" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
@@ -198,7 +198,7 @@
                 BorderThickness="4"
                 Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush Stretch="UniformToFill"/>
+                        <ImageBrush ImageSource="pack://application:,,,/Image_AboutUs/NguyenHuuTai.jpg" Stretch="UniformToFill"/>
                     </Border.Background>
                     <Border.Effect>
                         <DropShadowEffect Color="#4A90E2" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
@@ -214,23 +214,24 @@
             <!-- Member 5 -->
             <StackPanel HorizontalAlignment="Center">
                 <Border Width="180" Height="180"
-                CornerRadius="20"
-                BorderBrush="#66FFFFFF"
-                BorderThickness="4"
-                Margin="0,0,0,10">
+            CornerRadius="20"
+            BorderBrush="#66FFFFFF"
+            BorderThickness="4"
+            Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush Stretch="UniformToFill"/>
+                        <ImageBrush ImageSource="pack://application:,,,/Image_AboutUs/NguyenTheVinh02.jpg" Stretch="UniformToFill"/>
                     </Border.Background>
                     <Border.Effect>
                         <DropShadowEffect Color="#4A90E2" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
                     </Border.Effect>
                 </Border>
                 <TextBlock Text="Nguyễn Thế Vinh"
-                   FontSize="20"
-                   FontWeight="SemiBold"
-                   Foreground="White"
-                   HorizontalAlignment="Center"/>
+               FontSize="20"
+               FontWeight="SemiBold"
+               Foreground="White"
+               HorizontalAlignment="Center"/>
             </StackPanel>
+
 
             <!-- Member 6 -->
             <StackPanel HorizontalAlignment="Center">
@@ -240,7 +241,7 @@
                 BorderThickness="4"
                 Margin="0,0,0,10">
                     <Border.Background>
-                        <ImageBrush Stretch="UniformToFill"/>
+                        <ImageBrush ImageSource="pack://application:,,,/Image_AboutUs/HoGiaBao.jpg" Stretch="UniformToFill"/>
                     </Border.Background>
                     <Border.Effect>
                         <DropShadowEffect Color="#4A90E2" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
@@ -254,11 +255,11 @@
             </StackPanel>
         </UniformGrid>
 
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="480,624,0,0" >
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="480,580,0,0" >
             <TextBlock Text="Mentor: VuongNP"
                FontSize="30"
                FontWeight="SemiBold"
-               Foreground="White" Height="44" Width="257"
+               Foreground="White" Height="47" Width="257"
                />
         </StackPanel>
 

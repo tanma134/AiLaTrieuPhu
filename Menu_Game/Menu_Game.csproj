@@ -10,6 +10,12 @@
 
   <ItemGroup>
     <None Remove="Images\hinhNen.png" />
+    <None Remove="Image_AboutUs\HoGiaBao.jpg" />
+    <None Remove="Image_AboutUs\MaNhatTan.jpg" />
+    <None Remove="Image_AboutUs\NguyenHuuTai.jpg" />
+    <None Remove="Image_AboutUs\NguyenTheVinh.jpg" />
+    <None Remove="Image_AboutUs\NguyenTheVinh02.jpg" />
+    <None Remove="Image_AboutUs\NPGiaKhiem.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,7 +27,22 @@
     <Resource Include="Images\hinhNen.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="Image_AboutUs\NguyenHuuTaiEdited.jpg">
+    <Resource Include="Image_AboutUs\HoGiaBao.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_AboutUs\MaNhatTan.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_AboutUs\NguyenHuuTai.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_AboutUs\NguyenTheVinh.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_AboutUs\NguyenTheVinh02.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_AboutUs\NPGiaKhiem.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

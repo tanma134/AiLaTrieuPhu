@@ -1,53 +1,125 @@
 ﻿<Window x:Class="Menu_Game.HowToPlay"
-         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Cách Chơi" Height="600" Width="800" Background="#1C1C1C" WindowStartupLocation="CenterScreen">
-    <Grid Margin="20">
-        <ScrollViewer VerticalScrollBarVisibility="Auto">
-            <StackPanel>
-                <TextBlock Text="📘 CÁCH CHƠI - AI LÀ TRIỆU PHÚ" 
-                           FontSize="24" 
-                           FontWeight="Bold" 
-                           Foreground="Gold"
-                           TextAlignment="Center"
-                           Margin="0,0,0,20"/>
+        Title="Cách Chơi - Ai Là Triệu Phú" Height="600" Width="900"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" AllowsTransparency="True"
+        Background="Transparent">
 
-                <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="16" Margin="0,0,0,10">
-                    - Trò chơi gồm 15 câu hỏi trắc nghiệm, mỗi câu có 4 đáp án: A, B, C, D.
-                    <LineBreak/>
-                    - Người chơi cần trả lời đúng tất cả để chiến thắng giải thưởng lớn nhất.
-                    <LineBreak/>
-                    - Mỗi câu trả lời đúng sẽ đưa bạn đến một câu hỏi khó hơn và phần thưởng cao hơn.
-                </TextBlock>
+    <Window.Resources>
+        <DropShadowEffect x:Key="GlowEffect" Color="Gold" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
+        <DropShadowEffect x:Key="TextShadow" Color="Black" ShadowDepth="2" BlurRadius="4" Opacity="0.6"/>
+    </Window.Resources>
 
-                <TextBlock Text="📌 Luật chơi:" FontSize="18" FontWeight="Bold" Foreground="Gold" Margin="0,20,0,5"/>
-                <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="16">
-                    • Có 15 câu hỏi, mốc an toàn ở câu 5 và câu 10.
-                    <LineBreak/>• Chọn sai sẽ kết thúc trò chơi và nhận phần thưởng theo mốc gần nhất.
-                    <LineBreak/>• Có thể dừng cuộc chơi bất kỳ lúc nào.
-                </TextBlock>
+    <Border CornerRadius="20" BorderThickness="4" BorderBrush="#FFD700">
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                <GradientStop Color="#001845" Offset="0.0"/>
+                <GradientStop Color="#003566" Offset="0.5"/>
+                <GradientStop Color="#001233" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Border.Background>
 
-                <TextBlock Text="🛟 Trợ giúp:" FontSize="18" FontWeight="Bold" Foreground="Gold" Margin="0,20,0,5"/>
-                <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="16">
-                    • 50:50 – loại bỏ 2 đáp án sai.
-                    <LineBreak/>• Gọi điện cho người thân – hệ thống gợi ý một đáp án.
-                    <LineBreak/>• Hỏi ý kiến khán giả – hiển thị phần trăm khán giả chọn.
-                </TextBlock>
+        <Grid Margin="20">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Width="780" >
 
-                <TextBlock Text="🏆 Giải thưởng:" FontSize="18" FontWeight="Bold" Foreground="Gold" Margin="0,20,0,5"/>
-                <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="16">
-                    Câu 1: 100.000đ<LineBreak/>
-                    Câu 5: 1.000.000đ (Mốc an toàn)<LineBreak/>
-                    Câu 10: 14.000.000đ (Mốc an toàn)<LineBreak/>
-                    Câu 15: 150.000.000đ (Thắng cuộc)
-                </TextBlock>
-                <Button x:Name="btnBackToMenu" Content="⬅ Quay lại Menu" 
-                        Width="200" Height="32" 
-                        Background="DarkOrange" 
-                        Foreground="White"
-                        FontWeight="Bold"
-                        Click="BackToMenu_Click"/>
-            </StackPanel>
-        </ScrollViewer>
-    </Grid>
+                    <!-- Tiêu đề -->
+                    <TextBlock Text="🏆 AI LÀ TRIỆU PHÚ - CÁCH CHƠI" 
+                               FontSize="36" FontWeight="ExtraBold" Foreground="Gold" 
+                               TextAlignment="Center" TextWrapping="Wrap" Margin="0,0,0,30"
+                               Effect="{StaticResource GlowEffect}" 
+                               TextOptions.TextFormattingMode="Ideal"
+                               TextOptions.TextRenderingMode="ClearType" />
+
+                    <!-- Hướng dẫn -->
+                    <Border Background="#003566" CornerRadius="10" Padding="15" BorderBrush="White" BorderThickness="1" Margin="0,0,0,20">
+                        <StackPanel>
+                            <TextBlock Text="📖 HƯỚNG DẪN CHƠI" FontSize="24" FontWeight="Bold" 
+                                       Foreground="#00BFFF" Margin="0,0,0,10"
+                                       Effect="{StaticResource TextShadow}" 
+                                       TextOptions.TextFormattingMode="Ideal"
+                                       TextOptions.TextRenderingMode="ClearType" />
+                            <TextBlock FontSize="16" Foreground="White" TextWrapping="Wrap" LineHeight="26">
+                                • Có 15 câu hỏi, mỗi câu có 4 đáp án (A, B, C, D).
+                                <LineBreak/>
+                                • Trả lời đúng để tiếp tục – càng về sau càng khó hơn.
+                                <LineBreak/>
+                                • Trả lời sai → kết thúc trò chơi.
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Luật chơi -->
+                    <Border Background="#002855" CornerRadius="10" Padding="15" BorderBrush="White" BorderThickness="1" Margin="0,0,0,20">
+                        <StackPanel>
+                            <TextBlock Text="📜 LUẬT CHƠI" FontSize="24" FontWeight="Bold" 
+                                       Foreground="#00BFFF" Margin="0,0,0,10"
+                                       Effect="{StaticResource TextShadow}" 
+                                       TextOptions.TextFormattingMode="Ideal"
+                                       TextOptions.TextRenderingMode="ClearType" />
+                            <TextBlock FontSize="16" Foreground="White" TextWrapping="Wrap" LineHeight="26">
+                                • Mốc an toàn: Câu 5 và Câu 10.
+                                <LineBreak/>
+                                • Trả lời sai sẽ quay về mốc gần nhất.
+                                <LineBreak/>
+                                • Có thể dừng cuộc chơi để nhận thưởng.
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Trợ giúp -->
+                    <Border Background="#001D3D" CornerRadius="10" Padding="15" BorderBrush="White" BorderThickness="1" Margin="0,0,0,20">
+                        <StackPanel>
+                            <TextBlock Text="🛠️ TRỢ GIÚP" FontSize="24" FontWeight="Bold" 
+                                       Foreground="#00BFFF" Margin="0,0,0,10"
+                                       Effect="{StaticResource TextShadow}" 
+                                       TextOptions.TextFormattingMode="Ideal"
+                                       TextOptions.TextRenderingMode="ClearType" />
+                            <TextBlock FontSize="16" Foreground="White" TextWrapping="Wrap" LineHeight="26">
+                                • 50:50: Loại bỏ 2 phương án sai.
+                                <LineBreak/>
+                                • Gọi điện người thân: Gợi ý đáp án có thể đúng.
+                                <LineBreak/>
+                                • Hỏi ý kiến khán giả: Hiển thị tỷ lệ chọn.
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Giải thưởng -->
+                    <Border Background="#000F2E" CornerRadius="10" Padding="15" BorderBrush="White" BorderThickness="1">
+                        <StackPanel>
+                            <TextBlock Text="💰 GIẢI THƯỞNG" FontSize="24" FontWeight="ExtraBold" 
+                                       Foreground="Gold" Margin="0,0,0,10"
+                                       Effect="{StaticResource GlowEffect}" 
+                                       TextOptions.TextFormattingMode="Ideal"
+                                       TextOptions.TextRenderingMode="ClearType" />
+                            <TextBlock FontSize="16" Foreground="White" TextWrapping="Wrap" LineHeight="26">
+                                Câu 1: 100.000đ
+                                <LineBreak/>
+                                Câu 5: 1.000.000đ ⭐ (Mốc an toàn)
+                                <LineBreak/>
+                                Câu 10: 14.000.000đ ⭐⭐
+                                <LineBreak/>
+                                Câu 15: 150.000.000đ 🏆 (Chiến thắng)
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Nút quay lại -->
+                    <Button Content="🔙 Quay lại menu"
+                            Click="BackToMenu_Click"
+                            Width="200" Height="40"
+                            Margin="0,30,0,20"
+                            FontWeight="Bold" FontSize="16"
+                            FontFamily="Segoe UI"
+                            Foreground="#001845"  Background="#FEE440"
+                            BorderBrush="White" BorderThickness="2"
+                            Cursor="Hand"
+                            HorizontalAlignment="Center"
+                            Effect="{StaticResource TextShadow}" />
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Border>
 </Window>
