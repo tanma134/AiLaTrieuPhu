@@ -46,5 +46,17 @@
     "Password": "123456",
     "Email": "pakj@gmail.com",
     "Role": "Guest"
+  },
+  {
+    "Username": "Minh12",
+    "Password": "123456",
+    "Email": "MinhTHCE180705@fpt.edu.vn",
+    "Role": "Guest"
+  },
+  {
+    "Username": "tai122",
+    "Password": "111111",
+    "Email": "huutai0207.dev@gmail.com",
+    "Role": "Guest"
   }
 ]

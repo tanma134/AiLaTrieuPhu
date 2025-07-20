@@ -9,9 +9,14 @@ namespace AiLaTrieuPhu_Account.Helper
 {
     public static class AccountService
     {
-        // Đường dẫn trỏ về thư mục gốc của project
-        private static readonly string FilePath = System.IO.Path.Combine(
-    System.AppDomain.CurrentDomain.BaseDirectory, "accounts.json");
+        // Đường dẫn tới accounts.json nằm ở thư mục project
+
+        private static readonly string FilePath = Path.Combine(
+     Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.Parent.FullName,
+     "AiLaTrieuPhu_Account", "accounts.json");
+
+
+
 
         public static Account CurrentAccount { get; set; }
 
@@ -24,13 +29,24 @@ namespace AiLaTrieuPhu_Account.Helper
             return JsonSerializer.Deserialize<List<Account>>(json) ?? new List<Account>();
         }
 
+        // Save all accounts
+        private static void SaveAccounts(List<Account> accounts)
+        {
+            File.WriteAllText(FilePath, JsonSerializer.Serialize(accounts, new JsonSerializerOptions { WriteIndented = true }));
+        }
+
         // Login by username & password
         public static Account Login(string username, string password)
         {
             var accounts = LoadAccounts();
-            var acc = accounts.FirstOrDefault(a => a.Username == username && a.Password == password);
+            var acc = accounts.FirstOrDefault(a =>
+                a.Username.Trim().Equals(username.Trim(), StringComparison.OrdinalIgnoreCase) &&
+                a.Password == password);
+           
+
             if (acc != null) CurrentAccount = acc;
             return acc;
+
         }
 
         // Register new account (with email, check duplicate username/email)
@@ -51,17 +67,12 @@ namespace AiLaTrieuPhu_Account.Helper
                 };
                 accounts.Add(newAcc);
 
-                // Đảm bảo thư mục tồn tại
-                Directory.CreateDirectory(Path.GetDirectoryName(FilePath));
+                SaveAccounts(accounts);
 
-                File.WriteAllText(FilePath, JsonSerializer.Serialize(accounts, new JsonSerializerOptions { WriteIndented = true }));
-
-                MessageBox.Show($"Đã lưu thành công vào: {FilePath}");
                 return true;
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Lỗi khi lưu file: {ex.Message}");
                 return false;
             }
         }
@@ -80,8 +91,11 @@ namespace AiLaTrieuPhu_Account.Helper
             var acc = accounts.FirstOrDefault(a => a.Email == email);
             if (acc == null) return false;
             acc.Password = newPassword;
-            File.WriteAllText(FilePath, JsonSerializer.Serialize(accounts, new JsonSerializerOptions { WriteIndented = true }));
+            SaveAccounts(accounts);
             return true;
         }
+
+        // Debug method
+        public static string GetFilePath() => FilePath;
     }
 }
