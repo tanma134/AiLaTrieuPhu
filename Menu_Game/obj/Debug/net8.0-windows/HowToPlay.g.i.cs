@@ -60,7 +60,7 @@ namespace Menu_Game {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Menu_Game;component/howtoplay.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Menu_Game;V1.0.0.0;component/howtoplay.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\HowToPlay.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

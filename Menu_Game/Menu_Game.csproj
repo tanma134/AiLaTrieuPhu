@@ -26,4 +26,14 @@
     </Resource>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Music\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Music\menu.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

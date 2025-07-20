@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiLaTrieuPhu_Account")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+895f9cb1a147fe01bab927951887f858a51396df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4928a5c275545b2c39d0b2f13752a0b17171a1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiLaTrieuPhu_Account")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiLaTrieuPhu_Account")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

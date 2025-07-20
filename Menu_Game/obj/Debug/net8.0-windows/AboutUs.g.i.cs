@@ -52,7 +52,7 @@ namespace Menu_Game {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Menu_Game;component/aboutus.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Menu_Game;V1.0.0.0;component/aboutus.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AboutUs.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

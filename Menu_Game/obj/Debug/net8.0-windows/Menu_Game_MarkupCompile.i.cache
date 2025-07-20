@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\KI5\PRN212\AiLaTrieuPhu\Menu_Game\obj\Debug\net8.0-windows\
+D:\PRN212\AiLaTrieuPhu\Menu_Game\obj\Debug\net8.0-windows\
 Menu_Game
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\KI5\PRN212\AiLaTrieuPhu\Menu_Game\App.xaml
+D:\PRN212\AiLaTrieuPhu\Menu_Game\App.xaml
 3-1207541051
 
 8-2115013980
-201-1814759501
+201-1336966860
 AboutUs.xaml;HowToPlay.xaml;MainWindow.xaml;
 
-False
+True
 

@@ -51,23 +51,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tai\\.nuget\\packages\\": {},
+    "C:\\Users\\kknba\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
+      "projectUniqueName": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
       "projectName": "AiLaTrieuPhu_Account",
-      "projectPath": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
-      "packagesPath": "C:\\Users\\Tai\\.nuget\\packages\\",
-      "outputPath": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\obj\\",
+      "projectPath": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
+      "packagesPath": "C:\\Users\\kknba\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kknba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -83,8 +83,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj": {
-              "projectPath": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj"
+            "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj": {
+              "projectPath": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj"
             }
           }
         }
