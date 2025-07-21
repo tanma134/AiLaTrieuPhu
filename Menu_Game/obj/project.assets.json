@@ -73,23 +73,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP - Gia Khiêm\\.nuget\\packages\\": {},
+    "C:\\Users\\kknba\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\Project\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
+      "projectUniqueName": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
       "projectName": "Menu_Game",
-      "projectPath": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\Project\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
-      "packagesPath": "C:\\Users\\HP - Gia Khiêm\\.nuget\\packages\\",
-      "outputPath": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\Project\\AiLaTrieuPhu\\Menu_Game\\obj\\",
+      "projectPath": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
+      "packagesPath": "C:\\Users\\kknba\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HP - Gia Khiêm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kknba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -105,11 +105,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\Project\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj": {
-              "projectPath": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\Project\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj"
+            "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj": {
+              "projectPath": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj"
             },
-            "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\Project\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj": {
-              "projectPath": "D:\\ChuyenNganhKi05\\PRN212\\Assignment\\Project\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj"
+            "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj": {
+              "projectPath": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj"
             }
           }
         }
@@ -124,7 +124,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -148,7 +148,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
