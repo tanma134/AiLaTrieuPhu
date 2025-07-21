@@ -247,7 +247,7 @@
                         <DropShadowEffect Color="#4A90E2" ShadowDepth="0" BlurRadius="20" Opacity="0.9"/>
                     </Border.Effect>
                 </Border>
-                <TextBlock Text="Đặng Văn F"
+                <TextBlock Text="Hồ Gia Bảo"
                    FontSize="20"
                    FontWeight="SemiBold"
                    Foreground="White"
