@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\ki5\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\ki5\\prn212\\ailatrieuphu\\ailatrieuphu_account\\helper\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\helper\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\ki5\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\ki5\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\ki5\\prn212\\ailatrieuphu\\ailatrieuphu_account\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,11 +150,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Menu_Game.csproj",
               "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
               "RelativeDocumentMoniker": "Menu_Game\\Menu_Game.csproj",
@@ -163,8 +163,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-30T13:43:46.427Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -180,72 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "accounts.json",
-              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\accounts.json",
-              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\accounts.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T19:52:01.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:53:28.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
-              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAwwEkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T09:23:36.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:56:08.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailHelper.cs",
-              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T10:01:32.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
@@ -257,15 +191,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:23:36.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:56:08.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:53:28.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "accounts.json",
+              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\accounts.json",
+              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\accounts.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T19:52:01.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:01:32.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RegisterWindow.xaml",
               "DocumentMoniker": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
               "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-11T09:35:34.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T09:35:34.134Z"
             },
             {
               "$type": "Document",
@@ -277,8 +270,7 @@
               "RelativeToolTip": "AiLaTrieuPhu_Account\\Model\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:50:04.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T19:50:04.62Z"
             },
             {
               "$type": "Document",
@@ -290,8 +282,7 @@
               "RelativeToolTip": "AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T19:48:24.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T19:48:24.151Z"
             },
             {
               "$type": "Document",
@@ -302,8 +293,7 @@
               "ToolTip": "D:\\KI5\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-11T09:54:55.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T09:54:55.577Z"
             },
             {
               "$type": "Document",
@@ -409,8 +399,7 @@
               "RelativeToolTip": "AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T19:46:37.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T19:46:37.758Z"
             },
             {
               "$type": "Document",
@@ -557,8 +546,7 @@
               "RelativeToolTip": "ResultWindow\\ResultWindow.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-03T06:38:06.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T06:38:06.653Z"
             },
             {
               "$type": "Document",
