@@ -246,8 +246,8 @@
                     <TextBox x:Name="txtSearch" Width="200" Style="{StaticResource MillionaireTextBox}" Margin="0,0,10,0"/>
                     <Button Content="Tìm" Width="60" Style="{StaticResource MillionaireButton}" Click="Search_Click"/>
                     <Button Content="🧹 Xóa tìm" Width="80" Margin="5,0,0,0" Style="{StaticResource MillionaireButton}" Click="ClearSearch_Click"/>
-                    <Button Content="🚪 Logout" Width="76" Margin="5,0,0,0"
-        Style="{StaticResource MillionaireButton}" Click="Logout_Click"/>
+                    <Button Content="🚪 Back" Width="76" Margin="5,0,0,0"
+        Style="{StaticResource MillionaireButton}" Click="Back_Click"/>
 
                 </StackPanel>
 

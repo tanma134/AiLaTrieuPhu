@@ -17,7 +17,8 @@
       },
       "AiLaTrieuPhu_Account/1.0.0": {
         "dependencies": {
-          "AiLaTrieuPhu_DEMO": "1.0.0"
+          "AiLaTrieuPhu_DEMO": "1.0.0",
+          "AiLaTrieuPhu_Navigation": "1.0.0"
         },
         "runtime": {
           "AiLaTrieuPhu_Account.dll": {
@@ -32,6 +33,14 @@
         },
         "runtime": {
           "AiLaTrieuPhu_DEMO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AiLaTrieuPhu_Navigation/1.0.0": {
+        "runtime": {
+          "AiLaTrieuPhu_Navigation.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -59,6 +68,11 @@
       "sha512": ""
     },
     "AiLaTrieuPhu_DEMO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AiLaTrieuPhu_Navigation/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

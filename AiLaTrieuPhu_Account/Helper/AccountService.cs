@@ -42,11 +42,17 @@ namespace AiLaTrieuPhu_Account.Helper
             var acc = accounts.FirstOrDefault(a =>
                 a.Username.Trim().Equals(username.Trim(), StringComparison.OrdinalIgnoreCase) &&
                 a.Password == password);
-           
 
-            if (acc != null) CurrentAccount = acc;
+            if (acc != null)
+            {
+                if (acc.IsLocked)
+                {
+                    MessageBox.Show("Tài khoản bạn đã bị khóa.", "Lỗi đăng nhập", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return null;
+                }
+                CurrentAccount = acc;
+            }
             return acc;
-
         }
 
         // Register new account (with email, check duplicate username/email)
@@ -97,5 +103,27 @@ namespace AiLaTrieuPhu_Account.Helper
 
         // Debug method
         public static string GetFilePath() => FilePath;
+
+        public static bool ToggleLockAccount(string username)
+        {
+            var accounts = LoadAccounts();
+            var account = accounts.FirstOrDefault(a => a.Username == username);
+            if (account == null) return false;
+
+            account.IsLocked = !account.IsLocked;
+            SaveAccounts(accounts);
+            return true;
+        }
+
+        public static bool DeleteAccount(string username)
+        {
+            var accounts = LoadAccounts();
+            var account = accounts.FirstOrDefault(a => a.Username == username);
+            if (account == null) return false;
+
+            accounts.Remove(account);
+            SaveAccounts(accounts);
+            return true;
+        }
     }
 }
