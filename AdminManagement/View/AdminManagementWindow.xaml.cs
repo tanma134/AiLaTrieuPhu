@@ -14,7 +14,7 @@ namespace AdminManagement.View
     public partial class AdminManagementWindow : Window
     {
         private ObservableCollection<Question> questionList = new ObservableCollection<Question>();
-        private string filePath = @"C:\Users\ADMIN\OneDrive\Máy tính\ProjectPRN\AiLaTrieuPhu\AiLaTrieuPhu_DEMO\question.json";
+        private string filePath = @"D:\FPT_KI5\SWT\AiLaTrieuPhu\AiLaTrieuPhu_DEMO\question.json";
         private List<Question> originalList = new List<Question>();
 
 
@@ -158,11 +158,16 @@ namespace AdminManagement.View
 
         private void Logout_Click(object sender, RoutedEventArgs e)
         {
-            Menu_Game.MenuGame menu = new Menu_Game.MenuGame();
+            MenuGame menu = new MenuGame();
             menu.Show();
             this.Close();
         }
-
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            admindb menu = new admindb();
+            menu.Show();
+            this.Close();
+        }
 
     }
 }

@@ -10,12 +10,18 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AiLaTrieuPhu_DEMO\AiLaTrieuPhu_DEMO.csproj" />
+	  
+
   </ItemGroup>
 
   <ItemGroup>
     <None Update="accounts.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Admin\" />
   </ItemGroup>
 
 </Project>

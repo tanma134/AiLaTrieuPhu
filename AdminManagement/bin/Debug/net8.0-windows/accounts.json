@@ -3,60 +3,56 @@
     "Username": "admin",
     "Password": "admin123",
     "Email": "admin@gmail.com",
-    "Role": "Admin"
+    "Role": "Admin",
+    "IsLocked": false
   },
   {
     "Username": "guest1",
     "Password": "123456",
     "Email": "guest1@example.com",
-    "Role": "Guest"
+    "Role": "Guest",
+    "IsLocked": false
   },
   {
     "Username": "pha",
     "Password": "123456",
     "Email": "pha@gmail.com",
-    "Role": "Guest"
+    "Role": "Guest",
+    "IsLocked": false
   },
   {
     "Username": "tai12",
     "Password": "111111",
     "Email": "nguyenhuutai136mk@gmail.com",
-    "Role": "Guest"
+    "Role": "Guest",
+    "IsLocked": false
   },
   {
     "Username": "bbbb",
     "Password": "123456",
     "Email": "bbbb@gmail.com",
-    "Role": "Guest"
+    "Role": "Guest",
+    "IsLocked": false
   },
   {
     "Username": "huutai",
     "Password": "123456",
     "Email": "nguyenhuutai123xxx@gmail.com",
-    "Role": "Guest"
+    "Role": "Guest",
+    "IsLocked": false
   },
   {
     "Username": "huutai12",
     "Password": "123456",
     "Email": "nguyenhuutai.dev@gmail.com",
-    "Role": "Guest"
-  },
-  {
-    "Username": "11233",
-    "Password": "123456",
-    "Email": "pakj@gmail.com",
-    "Role": "Guest"
-  },
-  {
-    "Username": "Minh12",
-    "Password": "123456",
-    "Email": "MinhTHCE180705@fpt.edu.vn",
-    "Role": "Guest"
+    "Role": "Guest",
+    "IsLocked": false
   },
   {
     "Username": "tai122",
     "Password": "111111",
     "Email": "huutai0207.dev@gmail.com",
-    "Role": "Guest"
+    "Role": "Guest",
+    "IsLocked": true
   }
 ]

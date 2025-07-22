@@ -1,161 +1,191 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PRN212\\AiLaTrieuPhu\\",
+  "WorkspaceRootPath": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\menugame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menugame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\admindb.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\admindb.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\view\\playermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\view\\playermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\prn212\\ailatrieuphu\\adminmanagement\\view\\adminmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\view\\adminmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\view\\adminmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\prn212\\ailatrieuphu\\adminmanagement\\view\\adminmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\view\\adminmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\prn212\\ailatrieuphu\\adminmanagement\\adminmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\adminmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\adminmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\prn212\\ailatrieuphu\\adminmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\howtoplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\howtoplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\helper\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\helper\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\accounts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\accounts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\ailatrieuphu_account.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\ailatrieuphu_account.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\view\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\viewmodel\\playermanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\viewmodel\\playermanagerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\helper\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\ailatrieuphu_account.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\ailatrieuphu_account.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menu_game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\helper\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\helper\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\helper\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\helper\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\view\\playermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\view\\playermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\accounts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\accounts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\view\\adminmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\view\\adminmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\menugame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\menugame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\adminmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F9B0FBA-AE4C-414B-845F-AD9A2724E8C1}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\howtoplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\howtoplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\view\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\view\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\view\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_demo\\ailatrieuphu_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_demo\\ailatrieuphu_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{602449D6-AC9D-4C78-9BD0-167BCFA283D2}|AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj|solutionrelative:ailatrieuphu_demo\\ailatrieuphu_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\prn212\\ailatrieuphu\\ailatrieuphu_account\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\ailatrieuphu_account\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E0F336F7-88D0-41F6-B0DB-07D435971C91}|AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj|solutionrelative:ailatrieuphu_account\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\prn212\\ailatrieuphu\\resultwindow\\resultwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\resultwindow\\resultwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\resultwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Ki 5\\New folder\\DemoWPFCFLinq\\DemoWPFCFLinq\\MyStoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\aboutus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\aboutus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\aboutus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\howtoplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\howtoplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\howtoplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\prn212\\ailatrieuphu\\resultwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\resultwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP - Gia Khi\u00EAm\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\prn212\\ailatrieuphu\\resultwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\resultwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CF21AC3-D100-4A32-B466-D47911864608}|ResultWindow\\ResultWindow.csproj|solutionrelative:resultwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\prn212\\ailatrieuphu\\menu_game\\images\\hinhnen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|d:\\fpt_ki5\\projectprn\\ailatrieuphu\\menu_game\\images\\hinhnen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{774EDCD0-779E-4DF2-9E51-14792075B482}|Menu_Game\\Menu_Game.csproj|solutionrelative:menu_game\\images\\hinhnen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
@@ -166,17 +196,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Menu_Game.csproj",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
               "RelativeDocumentMoniker": "Menu_Game\\Menu_Game.csproj",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\Menu_Game.csproj",
               "RelativeToolTip": "Menu_Game\\Menu_Game.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-30T13:43:46.427Z",
               "IsPinned": true,
@@ -184,11 +214,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Menu_Game\\MainWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\MainWindow.xaml",
               "RelativeToolTip": "Menu_Game\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-01T05:41:24.405Z",
@@ -196,107 +226,296 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminManagement.csproj",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\AdminManagement.csproj",
-              "RelativeDocumentMoniker": "AdminManagement\\AdminManagement.csproj",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\AdminManagement.csproj",
-              "RelativeToolTip": "AdminManagement\\AdminManagement.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-20T09:30:13.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuGame.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\MenuGame.xaml.cs",
-              "RelativeDocumentMoniker": "Menu_Game\\MenuGame.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\MenuGame.xaml.cs",
-              "RelativeToolTip": "Menu_Game\\MenuGame.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T06:16:38.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AboutUs.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml",
-              "RelativeDocumentMoniker": "Menu_Game\\AboutUs.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml",
-              "RelativeToolTip": "Menu_Game\\AboutUs.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-09T12:02:53.075Z",
+              "Title": "PlayerManager.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\PlayerManager.xaml.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\View\\PlayerManager.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\PlayerManager.xaml.cs",
+              "RelativeToolTip": "AdminManagement\\View\\PlayerManager.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:00:39.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AdminManagementWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml.cs",
               "RelativeDocumentMoniker": "AdminManagement\\View\\AdminManagementWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml.cs",
               "RelativeToolTip": "AdminManagement\\View\\AdminManagementWindow.xaml.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T09:30:39.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admindb.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\admindb.xaml.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\admindb.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\admindb.xaml.cs",
+              "RelativeToolTip": "AdminManagement\\admindb.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:27:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\AssemblyInfo.cs",
+              "RelativeToolTip": "AdminManagement\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:41:02.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AdminManagementWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml",
-              "RelativeDocumentMoniker": "AdminManagement\\View\\AdminManagementWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml",
-              "RelativeToolTip": "AdminManagement\\View\\AdminManagementWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-20T09:30:17.481Z"
+              "Title": "AdminManagement.csproj",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\AdminManagement.csproj",
+              "RelativeDocumentMoniker": "AdminManagement\\AdminManagement.csproj",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\AdminManagement.csproj",
+              "RelativeToolTip": "AdminManagement\\AdminManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T09:30:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:56:08.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\App.xaml",
-              "RelativeDocumentMoniker": "AdminManagement\\App.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AdminManagement\\App.xaml",
-              "RelativeToolTip": "AdminManagement\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-20T09:30:05.827Z"
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:56:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerManagerViewModel.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\ViewModel\\PlayerManagerViewModel.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\ViewModel\\PlayerManagerViewModel.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\ViewModel\\PlayerManagerViewModel.cs",
+              "RelativeToolTip": "AdminManagement\\ViewModel\\PlayerManagerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:02:00.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AdminManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\MainWindow.xaml",
+              "RelativeToolTip": "AdminManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-21T10:27:42.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AiLaTrieuPhu_Account.csproj",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T19:48:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-10T19:56:23.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Model\\Account.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Model\\Account.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\Model\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:53:28.519Z"
+              "WhenOpened": "2025-07-10T19:50:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:55:51.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-10T19:56:23.208Z"
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:01:32.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\AccountService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:53:28.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerManager.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\PlayerManager.xaml",
+              "RelativeDocumentMoniker": "AdminManagement\\View\\PlayerManager.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\PlayerManager.xaml",
+              "RelativeToolTip": "AdminManagement\\View\\PlayerManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-22T05:30:56.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "accounts.json",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
+              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\accounts.json",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
+              "RelativeToolTip": "AiLaTrieuPhu_Account\\accounts.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T19:52:01.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminManagementWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml",
+              "RelativeDocumentMoniker": "AdminManagement\\View\\AdminManagementWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\View\\AdminManagementWindow.xaml",
+              "RelativeToolTip": "AdminManagement\\View\\AdminManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T09:30:17.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuGame.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\MenuGame.xaml.cs",
+              "RelativeDocumentMoniker": "Menu_Game\\MenuGame.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\MenuGame.xaml.cs",
+              "RelativeToolTip": "Menu_Game\\MenuGame.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:16:38.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAALECAAAAAAAAAAAhwMICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-21T10:29:45.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\App.xaml",
+              "RelativeDocumentMoniker": "AdminManagement\\App.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AdminManagement\\App.xaml",
+              "RelativeToolTip": "AdminManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T09:30:05.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AboutUs.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml",
+              "RelativeDocumentMoniker": "Menu_Game\\AboutUs.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml",
+              "RelativeToolTip": "Menu_Game\\AboutUs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-09T12:02:53.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAlwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:20:46.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\ViewModel\\RegisterViewModel.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAwwEkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,105 +523,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "HowToPlay.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml",
               "RelativeDocumentMoniker": "Menu_Game\\HowToPlay.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml",
               "RelativeToolTip": "Menu_Game\\HowToPlay.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-09T12:04:37.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmailHelper.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\EmailHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T10:01:32.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\ViewModel\\LoginViewModel.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:56:08.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "accounts.json",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\accounts.json",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\accounts.json",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\accounts.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T19:52:01.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "RegisterWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-11T09:35:34.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Model\\Account.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Model\\Account.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Model\\Account.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\Model\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:50:04.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AiLaTrieuPhu_Account.csproj",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\AiLaTrieuPhu_Account.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T19:48:24.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "ForgotPasswordWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-11T09:54:55.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "ForgotPasswordWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml.cs",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml.cs",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\ForgotPasswordWindow.xaml.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAgwFgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -410,22 +568,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\MainWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml",
               "RelativeToolTip": "AiLaTrieuPhu_DEMO\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-11T11:51:19.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
               "RelativeToolTip": "AiLaTrieuPhu_DEMO\\MainWindow.xaml.cs",
               "ViewState": "AgIAACsBAAAAAAAAAAAAALoBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,11 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "RegisterWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml.cs",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml.cs",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\RegisterWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,46 +603,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\View\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:56:35.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
-              "RelativeToolTip": "AiLaTrieuPhu_Account\\Helper\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:55:51.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\MainWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-10T19:47:48.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_Account\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_Account\\MainWindow.xaml.cs",
               "RelativeToolTip": "AiLaTrieuPhu_Account\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -492,11 +626,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "AiLaTrieuPhu_DEMO.csproj",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
               "RelativeDocumentMoniker": "AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
               "RelativeToolTip": "AiLaTrieuPhu_DEMO\\AiLaTrieuPhu_DEMO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -505,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -515,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "MyStoreContext.cs",
               "DocumentMoniker": "E:\\Ki 5\\New folder\\DemoWPFCFLinq\\DemoWPFCFLinq\\MyStoreContext.cs",
               "ToolTip": "E:\\Ki 5\\New folder\\DemoWPFCFLinq\\DemoWPFCFLinq\\MyStoreContext.cs",
@@ -525,11 +659,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "AboutUs.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml.cs",
               "RelativeDocumentMoniker": "Menu_Game\\AboutUs.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\AboutUs.xaml.cs",
               "RelativeToolTip": "Menu_Game\\AboutUs.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,11 +671,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "HowToPlay.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml.cs",
               "RelativeDocumentMoniker": "Menu_Game\\HowToPlay.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\HowToPlay.xaml.cs",
               "RelativeToolTip": "Menu_Game\\HowToPlay.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,23 +683,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\App.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\App.xaml",
               "RelativeDocumentMoniker": "Menu_Game\\App.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\App.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\App.xaml",
               "RelativeToolTip": "Menu_Game\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-09T12:08:39.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:08:39.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Menu_Game\\AssemblyInfo.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\AssemblyInfo.cs",
               "RelativeToolTip": "Menu_Game\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -573,18 +706,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ResultWindow\\MainWindow.xaml",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml",
               "RelativeToolTip": "ResultWindow\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-03T06:33:57.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\HP - Gia Khi\u00EAm\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
               "ToolTip": "C:\\Users\\HP - Gia Khi\u00EAm\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
@@ -595,11 +728,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ResultWindow\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\ResultWindow\\MainWindow.xaml.cs",
               "RelativeToolTip": "ResultWindow\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -607,11 +740,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "ResultWindow.csproj",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\ResultWindow\\ResultWindow.csproj",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\ResultWindow\\ResultWindow.csproj",
               "RelativeDocumentMoniker": "ResultWindow\\ResultWindow.csproj",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\ResultWindow\\ResultWindow.csproj",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\ResultWindow\\ResultWindow.csproj",
               "RelativeToolTip": "ResultWindow\\ResultWindow.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -620,22 +753,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
-              "ViewState": "AgIAAJ4BAAAAAAAAAAAswLUBAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T07:48:53.559Z",
               "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "hinhNen.png",
-              "DocumentMoniker": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\Images\\hinhNen.png",
+              "DocumentMoniker": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\Images\\hinhNen.png",
               "RelativeDocumentMoniker": "Menu_Game\\Images\\hinhNen.png",
-              "ToolTip": "D:\\PRN212\\AiLaTrieuPhu\\Menu_Game\\Images\\hinhNen.png",
+              "ToolTip": "D:\\FPT_KI5\\projectprn\\AiLaTrieuPhu\\Menu_Game\\Images\\hinhNen.png",
               "RelativeToolTip": "Menu_Game\\Images\\hinhNen.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-06-30T14:11:49.049Z"

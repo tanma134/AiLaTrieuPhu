@@ -1,16 +1,23 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <UseWPF>true</UseWPF>
-  </PropertyGroup>
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\AiLaTrieuPhu_DEMO\AiLaTrieuPhu_DEMO.csproj" />
-    <ProjectReference Include="..\Menu_Game\Menu_Game.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\AiLaTrieuPhu_DEMO\AiLaTrieuPhu_DEMO.csproj" />
+		<ProjectReference Include="..\Menu_Game\Menu_Game.csproj" />
+	</ItemGroup>
+	<ItemGroup>
 
+		<Resource Include="Images\hinhNennn.png">
+
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		
+	</ItemGroup>
 </Project>
